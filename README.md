@@ -23,3 +23,6 @@
 ![Flow](https://img.shields.io/badge/Flow-%23000000.svg?style=for-the-badge&logo=langflow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![JSON](https://img.shields.io/badge/JSON-3670A0.svg?style=for-the-badge&logo=json&logoColor=white) 
+
+## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/MikleAndroid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:godmordor@gmail.com) 
